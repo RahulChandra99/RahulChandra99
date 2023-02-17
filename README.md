@@ -9,8 +9,8 @@
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p> -->
 
 
-# Hi👋🏻 I'm <a href="https://www.linkedin.com/in/chandra-rahul-99c/" target="_blank"> Rahul Chandra! </a> 
-
+#   Hi👋🏻 I'm <a href="https://www.linkedin.com/in/chandra-rahul-99c/" target="_blank"> Rahul Chandra! </a> 
+🔭 I’m currently working as a Game Programmer<br>
 <div align="justify">
  
 
@@ -26,12 +26,12 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Pacman](https://github.com/Dhiraj57/Pacman)     | Clone of the Pac-Man game using c++ and SFML. 
-| [Co-op Snake](https://github.com/Dhiraj57/Co-Op_Snake_2D)   | 2D snake game with two player mode.
-| [Wall & Eve](https://github.com/Dhiraj57/Wall-and-Eve)     | Endless runner game which has two different modes.
-| [Platformer](https://github.com/Dhiraj57/2D-Platformer-Game)     | 2D platformer game built using unity engine. 
-| [Simple Shooter](https://github.com/Dhiraj57/SimpleShooter)     | Third person shooter game built using unreal engine.
-| [RPG Adventure Game](https://github.com/Dhiraj57/RPG-Adventure-Game)     | Text based RPG adventure game created using c++.
+| [Dodgeball Arena](https://github.com/RahulChandra99/Dodgeball-Arena)     | Dodgeball Arena is a arcade style quick to play Player VS AI dodgeball game. 
+| [Wombats](https://github.com/Dhiraj57/Co-Op_Snake_2D)   | Playable Music Video Game for the band 'The Wombats'
+| [Tikky Tokky Drop Game](https://www.rahulchandraportfolio.com/tikkytokkydropgame)     | Endless runner game for tiktok influencers.
+| [Maze Collapse](https://github.com/RahulChandra99/Maze-Collapse)     | Replica of the original Maze Collapse problem solving game where player has to guide the pyramid through the exit portal and remove all the tiles on the way. 
+| [Anton Adventures](https://github.com/RahulChandra99/Anton-Adventures)     | 2D adventure with interactive and mind boggling obstacles and unique gameplay mechanics.
+
  
 
 <br/>
