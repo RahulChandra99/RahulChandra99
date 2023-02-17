@@ -16,18 +16,15 @@
 
 </div> 
  
-### Check out my latest creations on my [Portfolio](https://www.rahulchandraportfolio.com/). Here are some of my featured projects:
+### Check out all my creations on my [Portfolio](https://www.rahulchandraportfolio.com/). 
+ Here are some of my featured projects:
  
-<br/>
-
-
-<br/>
 
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [Dodgeball Arena](https://github.com/RahulChandra99/Dodgeball-Arena)     | Dodgeball Arena is a arcade style quick to play Player VS AI dodgeball game. 
-| [Wombats](https://www.rahulchandraportfolio.com/thewombatsofficialgame)   | Playable Music Video Game for the band 'The Wombats'
+| [The Wombats](https://www.rahulchandraportfolio.com/thewombatsofficialgame)   | Playable Music Video Game for the band 'The Wombats'
 | [Tikky Tokky Drop Game](https://www.rahulchandraportfolio.com/tikkytokkydropgame)     | Endless runner game for tiktok influencers.
 | [Maze Collapse](https://github.com/RahulChandra99/Maze-Collapse)     | Replica of the original Maze Collapse problem solving game where player has to guide the pyramid through the exit portal and remove all the tiles on the way. 
 | [Anton Adventures](https://github.com/RahulChandra99/Anton-Adventures)     | 2D adventure with interactive and mind boggling obstacles and unique gameplay mechanics.
