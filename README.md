@@ -68,19 +68,22 @@
 </a>
  
 
- 
+<br><br><br> 
  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChandra99&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RahulChandra99&theme=radical&hide_border=false)<br/>
-<br></br>
-![](https://github-readme-stats.vercel.app/api?username=RahulChandra99&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+ <table>
+  <tr>
+   
+<td><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChandra99&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Rahul Chandra" />
+    <td><img src="https://github-readme-stats.vercel.app/api?username=RahulChandra99&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Rahul Chandra" /></td>
+  </tr>
+</table>
+<!-- <div align="center"> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChandra99&theme=radical&hide_border=false" alt="Rahul Chandra" /></p>
 
 
-
-
-</div>
 
 
 
