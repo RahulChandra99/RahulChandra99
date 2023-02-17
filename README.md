@@ -17,6 +17,7 @@
 </div> 
  
 ### Check out all my creations on my [Portfolio](https://www.rahulchandraportfolio.com/). 
+  ### Explore some of my playable demos on [itch.io](https://rahul-chandra.itch.io/). 
  Here are some of my featured projects:
  
 
@@ -32,6 +33,8 @@
  
 
 <br/>
+ 
+
 
 <!-- ## Skill Set 
 
