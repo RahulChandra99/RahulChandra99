@@ -78,7 +78,7 @@
  <table>
   <tr>
    
-<td><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChandra99&theme=radical&hide_border=false" alt="Rahul Chandra" />
+<td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChandra99&theme=radical&hide_border=false" alt="Rahul Chandra" />
     <td><img src="https://github-readme-stats.vercel.app/api?username=RahulChandra99&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Rahul Chandra" /></td>
   </tr>
 </table>
