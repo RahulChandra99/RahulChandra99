@@ -13,10 +13,15 @@
 </div> 
  
 ### Check out all my creations on my [Portfolio](https://www.rahulchandraportfolio.com/). 
+  
   ### Explore some of my playable demos on [itch.io](https://rahul-chandra.itch.io/). 
+ 
+ <br>
+ 
+ 
  Here are some of my featured projects:
  
-
+<br>
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
@@ -42,17 +47,13 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unity](https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
  ![Unity](https://img.shields.io/badge/unrealengine-000000?style=for-the-badge&logo=unrealengine&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-  
-   <br/>
  
-![Dino](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/main/dino.gif)
-
- <br/>
-  
+ <br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchandra99&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Rahul Chandra" /><br>
+   Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ <br><br>
+ 
 ## Connect with me 🤝🏻
-
-
-
 <a href="https://www.linkedin.com/in/chandra-rahul-99c/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -69,7 +70,7 @@
 </a>
  
 
-<br><br><br> 
+<br><br> 
  
 
 # 📊 GitHub Stats:
@@ -77,15 +78,16 @@
  <table>
   <tr>
    
-<td><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchandra99&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Rahul Chandra" />
+<td><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChandra99&theme=radical&hide_border=false" alt="Rahul Chandra" />
     <td><img src="https://github-readme-stats.vercel.app/api?username=RahulChandra99&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Rahul Chandra" /></td>
   </tr>
 </table>
 <!-- <div align="center"> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulChandra99&theme=radical&hide_border=false" alt="Rahul Chandra" /></p>
+<p></p>
 
+<br>
 
-
+![Dino](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/main/dino.gif)
 
 
 
