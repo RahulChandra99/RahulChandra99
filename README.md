@@ -35,7 +35,22 @@
 
 <br/>
  
+Personal projects I'm currently working on:
+ 
+<br>
 
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [Connect4 3D](https://github.com/RahulChandra99/ConnectFour3D)     | 3D minimalistic version of the classic Connect 4 board game 
+| [2D Dungeon Game](https://github.com/RahulChandra99/2D-Dungeon-Game)   | Easy-to-play C++ game made using SFML
+| [Tic Tac Toe SFML Version](https://github.com/RahulChandra99/Tic-Tac-Toe-SFML)     | Classic Tic Tac Toe made using SFML
+| [Project Action Rougelike](https://github.com/RahulChandra99/ProjectActionRougelike)     | Top Down 3D action game made using Unreal Engine 
+| [Kitchen Simulator](https://github.com/RahulChandra99/KitchenSim)     | Kitchen Management simulator made using Unity
+
+ 
+
+<br/>
+ 
 
 <!-- ## Skill Set 
 
