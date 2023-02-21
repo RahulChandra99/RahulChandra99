@@ -26,8 +26,8 @@
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [Dodgeball Arena](https://github.com/RahulChandra99/Dodgeball-Arena)     | Dodgeball Arena is a arcade style quick to play Player VS AI dodgeball game. 
-| [The Wombats](https://www.rahulchandraportfolio.com/thewombatsofficialgame)   | Playable Music Video Game for the band 'The Wombats'
-| [Tikky Tokky Drop Game](https://www.rahulchandraportfolio.com/tikkytokkydropgame)     | Endless runner game for tiktok influencers.
+| [The Wombats](https://github.com/RahulChandra99/The-Wombats-Official-Game)   | Playable Music Video Game for the band 'The Wombats'
+| [Tikky Tokky Drop Game](https://github.com/RahulChandra99/TikkyTokkyDropGame)     | Endless runner game for tiktok influencers.
 | [Maze Collapse](https://github.com/RahulChandra99/Maze-Collapse)     | Replica of the original Maze Collapse problem solving game where player has to guide the pyramid through the exit portal and remove all the tiles on the way. 
 | [Anton Adventures](https://github.com/RahulChandra99/Anton-Adventures)     | 2D adventure with interactive and mind boggling obstacles and unique gameplay mechanics.
 
