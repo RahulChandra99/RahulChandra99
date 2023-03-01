@@ -102,7 +102,7 @@ Personal projects I'm currently working on:
 
 <br>
 
-![Dino](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/main/dino.gif)
+<!--![Dino](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/main/dino.gif)
 
 
 
