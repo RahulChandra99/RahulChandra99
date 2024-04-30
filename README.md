@@ -1,10 +1,10 @@
-Hi there 👋
+Hi there 👋 <br>
 🔭 I’m currently working on the thesis project for my MFA in Computer Arts. My focus is Houdini Engine Python API in Unreal Engine 5. <br>
-🌱 I’m currently learning Python, C++, VEX, and GLSL...
-👯 I’m looking to collaborate on VR/XR projects in Unreal Engine or Unity...
-💜 I love creating procedural art using code, mathematics and computer graphics algorithms...
-📫 How to reach me: wenyiz2021@gmail.com
-My Website
+🌱 I’m currently learning Python, C++, VEX, and GLSL...<br>
+👯 I’m looking to collaborate on VR/XR projects in Unreal Engine or Unity...<br>
+💜 I love creating procedural art using code, mathematics and computer graphics algorithms...<br>
+📫 How to reach me: rahulchandra99@gmail.com<br>
+<a href="https://www.rahulchandraportfolio.com/" target="_blank"> My Website <br></a>
 
 
 <!---
