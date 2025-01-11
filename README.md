@@ -4,7 +4,7 @@ Hi👋🏻 <br>
 
 I enjoy creating game mechanics, tools and procedural stuff using code, mathematics and computer graphics algorithms.<br>
 How to reach me: rahulchandra99@gmail.com<br>
-<a href="https://www.rahulchandraportfolio.com/" target="_blank"> My Portfolio <br></a>
+<a href="https://olivine-tie-eb9.notion.site/Rahul-Chandra-Gameplay-Programmer-Portfolio-1787a28b85ef8023b062e4c94f2d3c1b?pvs=74" target="_blank"> My Portfolio <br></a>
 <a href="https://linktr.ee/rahulchandra99" target="_blank"> Linktree <br></a>
 #
 #### Skills:
