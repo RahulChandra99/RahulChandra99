@@ -10,20 +10,7 @@ Skills: C++, C#, Unreal Engine, Unity Engine, Python
 
 #
 
-As a C++/C# Gameplay Programmer, I specialise in creating:
 
-1. Weapon System : [Link](https://github.com/RahulChandra99/fps-mechanics-ue5-cpp), [Link](https://github.com/RahulChandra99/ue5-cpp-shooter-stealth-mechanics-recreate)
-3. Parkour, Traversal & Locomotion System : [Link](https://github.com/RahulChandra99/ue5-cpp-shooter-stealth-mechanics-recreate), [Link](https://github.com/RahulChandra99/recreate-climbing-mechanics-cpp)
-4. Combat & Melee System : [Link](https://github.com/RahulChandra99/ue5-cpp-shooter-stealth-mechanics-recreate), [Link](https://github.com/RahulChandra99/ue5-marvel-rivals-mechanics)
-5. Gameplay Abilities : [Link](https://github.com/RahulChandra99/ue5-cpp-shooter-stealth-mechanics-recreate), [Link](https://github.com/RahulChandra99/ue5-marvel-rivals-mechanics)
-6. AI System : [Link](https://github.com/RahulChandra99/ue5-cpp-shooter-stealth-mechanics-recreate)
-7. Interaction System : [Link](https://github.com/RahulChandra99/fps-mechanics-ue5-cpp)
-8. Multiplayer and Networking : [Link](https://github.com/RahulChandra99/fps-mechanics-ue5-cpp)
-10. Quick Prototypes : [Link](https://github.com/RahulChandra99/prototypes-unity)
-11. GameJam Projects : [Link](https://github.com/RahulChandra99/gamejam-projects)
-12. Algorithms with Modern C++ : [Link](https://github.com/RahulChandra99/procedural-maze-generator-cpp), [Link](https://github.com/RahulChandra99/sfml-sdl2-cpp-games)
-
-#
 
 #### My Repos:
 
