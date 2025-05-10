@@ -14,13 +14,10 @@ Skills: C++, C#, Unreal Engine, Unity Engine, Python
 
 #### My Repos:
 
-1. <a href="https://github.com/stars/RahulChandra99/lists/university-assignments"> University Assignment Repositories </a>
-2. <a href="https://github.com/stars/RahulChandra99/lists/c-projects"> C++ Repositories </a>
-3. <a href="https://github.com/stars/RahulChandra99/lists/unreal-gameplay-projects"> Unreal Engine Repositories </a>
-4. <a href="https://github.com/stars/RahulChandra99/lists/tools-and-plugins"> Custom Tools & Plugins Repositories </a>
-5. <a href="https://github.com/stars/RahulChandra99/lists/unity-projects"> Unity Engine Repositories </a>
-6. <a href="https://github.com/stars/RahulChandra99/lists/vfx-repos"> VFX Repositories </a>
-7. <a href="https://github.com/stars/RahulChandra99/lists/python-projects"> Python Repositories </a>
+1. <a href="https://github.com/stars/RahulChandra99/lists/c-projects"> C++ Repositories </a>
+2. <a href="https://github.com/stars/RahulChandra99/lists/unreal-c-games-demos"> Unreal C++ Games/Demos Repositories </a>
+3. <a href="https://github.com/stars/RahulChandra99/lists/tools-and-plugins-python-c-c"> Tools and Plugins(Python/C++/C#) Repositories </a>
+4. <a href="https://github.com/stars/RahulChandra99/lists/unity-c-games-demos"> Unity C# Games/Demos Repositories </a>
 
 #
 
