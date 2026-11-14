@@ -9,7 +9,7 @@ Right now I'm working on [Red Rust Pioneers](https://store.steampowered.com/app/
 - [Climbing and parkour](https://github.com/RahulChandra99/ue5-cpp-parkour-climbing-mechanics). Free climbing, ledge detection and vaulting on a custom movement mode, with Control Rig IK and motion warping.
 - [Stealth, weapons and combat AI](https://github.com/RahulChandra99/unreal-cpp-interaction-weapon-stealth-combat-ai-system). A Hitman-style sandbox with disguises, body dragging, modular weapons and enemies that patrol, get distracted and hunt you.
 - [Abilities with GAS](https://github.com/RahulChandra99/unreal-cpp-combat-GAS). Server-authoritative abilities built on Unreal's Gameplay Ability System.
-- [Multiplayer FPS](https://github.com/RahulChandra99/unreal-cpp-multiplayer-custom-fps). Steam sessions, teams, weapons and inventory, all replicated.
+- [Multiplayer FPS](https://github.com/RahulChandra99/unreal-cpp-multiplayer-custom-fps). A Counter-Strike style team shooter with a server browser, two teams and three weapons. Mostly Blueprint.
 
 ## Tools and everything else
 
